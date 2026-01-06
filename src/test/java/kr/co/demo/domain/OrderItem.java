@@ -1,7 +1,10 @@
 package kr.co.demo.domain;
 
-import kr.co.demo.storage.annotation.*;
-import kr.co.demo.storage.enums.RelationType;
+import kr.co.demo.core.storage.annotation.StorageColumn;
+import kr.co.demo.core.storage.annotation.StorageId;
+import kr.co.demo.core.storage.annotation.StorageRelation;
+import kr.co.demo.core.storage.annotation.StorageTable;
+import kr.co.demo.core.storage.enums.RelationType;
 
 import java.math.BigDecimal;
 

@@ -1,4 +1,4 @@
-package kr.co.demo.adapter;
+package kr.co.demo.storage.jpa.adapter;
 
 import com.querydsl.jpa.impl.JPAQuery;
 import com.querydsl.jpa.impl.JPAQueryFactory;

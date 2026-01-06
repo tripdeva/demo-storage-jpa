@@ -1,7 +1,7 @@
-package kr.co.demo.adapter;
+package kr.co.demo.storage.jpa.adapter;
 
-import kr.co.demo.exception.StorageException;
-import kr.co.demo.mapper.DomainMapper;
+import kr.co.demo.core.exception.StorageException;
+import kr.co.demo.core.mapper.DomainMapper;
 import org.springframework.context.ApplicationContext;
 import org.springframework.dao.DataAccessException;
 import org.springframework.data.jpa.repository.JpaRepository;

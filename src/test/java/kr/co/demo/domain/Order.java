@@ -1,8 +1,8 @@
 package kr.co.demo.domain;
 
-import kr.co.demo.storage.annotation.*;
-import kr.co.demo.storage.enums.EnumType;
-import kr.co.demo.storage.enums.RelationType;
+import kr.co.demo.core.storage.annotation.*;
+import kr.co.demo.core.storage.enums.EnumType;
+import kr.co.demo.core.storage.enums.RelationType;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
