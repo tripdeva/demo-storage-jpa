@@ -1,4 +1,4 @@
-package kr.co.demo.storage.jpa.adapter;
+package kr.co.demo.client.jpa.adapter;
 
 import kr.co.demo.core.mapper.DomainMapper;
 import org.springframework.data.jpa.repository.JpaRepository;

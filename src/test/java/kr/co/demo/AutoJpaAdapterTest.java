@@ -1,6 +1,6 @@
 package kr.co.demo;
 
-import kr.co.demo.storage.jpa.adapter.AutoJpaAdapter;
+import kr.co.demo.client.jpa.adapter.AutoJpaAdapter;
 import kr.co.demo.domain.Order;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

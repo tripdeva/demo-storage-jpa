@@ -1,4 +1,4 @@
-package kr.co.demo.storage.jpa.config;
+package kr.co.demo.client.jpa.config;
 
 import com.querydsl.jpa.impl.JPAQueryFactory;
 import jakarta.persistence.EntityManager;
